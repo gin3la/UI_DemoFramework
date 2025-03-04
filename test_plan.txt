@@ -1,1 +1,1 @@
-This is my UI Auto demo framework using Selenium C# NUnit Framework Design
+This is my UI Auto demo framework using Selenium C# NUnit Framework Design using net8.0
